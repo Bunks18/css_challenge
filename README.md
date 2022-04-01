@@ -2,7 +2,9 @@
 
 In this challenge you will be required to refactor CSS.
 
-In the `index.html` file there is a sample resume that is using the css propoerty `float` to display two `div`s side by side.
+In the `index.html` file there is a sample resume that is using the css property `float` to display two `div`s side by side.
+
+Resume - https://bunks18.github.io/css_challenge/
 
 ## Instructions
 
