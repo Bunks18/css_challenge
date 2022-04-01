@@ -1,0 +1,24 @@
+.wow {
+  width: 100px;
+}
+
+.center {
+  text-align: center;
+}
+
+.job-section {
+  margin-bottom: 1rem;
+}
+
+.item {
+  margin-bottom: 2rem;
+}
+
+.year {
+  float: right;
+}
+
+.css-flex,
+.css-grid {
+  border: 1px solid red;
+}
